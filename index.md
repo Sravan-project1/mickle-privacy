@@ -1,7 +1,7 @@
 # Privacy Policy — Mickle
 
-**Effective date:** [Fill in the date you publish the app to the Play Store, e.g., "May 15, 2026"]
-**Last updated:** May 6, 2026
+**Effective date:**June 5, 2026 
+**Last updated:** June 5, 2026
 
 This Privacy Policy explains how the Mickle mobile application ("Mickle," "the App," "we," "our," "us") collects, uses, shares, and protects information when you use it.
 
